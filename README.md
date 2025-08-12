@@ -4,11 +4,17 @@ The game recreates a realistic carom billiards table with a first-person view, a
 Players can practice aiming, adjust shot strength, and learn carom strategies.
 
 🎮 How to Play
+
 Move the mouse to rotate the camera and aim your shot.
+
 Click on the UI to select the strike point on the cue ball.
+
 Hold the SPACE key to increase shot power.
+
 Release the SPACE key to strike the cue ball.
+
 Carom rule: The cue ball must hit both target balls to score points.
+
 
 🔧 Technologies & Tools Used
 
